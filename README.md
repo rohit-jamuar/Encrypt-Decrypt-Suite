@@ -3,7 +3,7 @@
 ####Setup:
 1. Primarily, you ought to have the *libgcrypt* library installed on you machine - I used an Ubuntu machine. 
 
-On Ubuntu, you have to open the **Terminal** and run 
+On Ubuntu, open **Terminal** and run 
 > sudo apt-get install libgcrypt11 libgcrypt11-dev gcc.
 
 2. Once you've installed the library, you can navigate to the folder where you have cloned this repo.
