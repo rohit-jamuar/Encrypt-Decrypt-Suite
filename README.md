@@ -1,7 +1,7 @@
 ###File encryption/decryption/transmission suite akin to scp (using gcrypt libraries).
 
 ####Setup:
-1. Primarily, you ought to have the *libgcrypt* library installed on you machine - I used an Ubuntu machine. 
+1. Primarily, you ought to have the *libgcrypt* library installed on your machine - I used an Ubuntu machine. 
 On Ubuntu, open **Terminal** and run
 > sudo apt-get install libgcrypt11 libgcrypt11-dev gcc.
 
